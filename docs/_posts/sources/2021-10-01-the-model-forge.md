@@ -6,6 +6,6 @@ categories: source
 url: https://models.quantumstat.com/
 ---
 
-https://models.quantumstat.com/
+[https://models.quantumstat.com/](https://models.quantumstat.com/)
 
-List a lot of models
+一些NLP模型的收集，列出了论文和源代码

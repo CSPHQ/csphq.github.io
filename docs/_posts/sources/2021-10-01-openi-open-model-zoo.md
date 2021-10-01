@@ -6,4 +6,6 @@ categories: source
 url: https://openi.org.cn/projects/model_zoo/
 ---
 
-https://openi.org.cn/projects/model_zoo/
+[https://openi.org.cn/projects/model_zoo/](https://openi.org.cn/projects/model_zoo/)
+
+启智社区的一些模型

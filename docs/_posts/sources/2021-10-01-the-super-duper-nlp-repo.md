@@ -6,6 +6,6 @@ categories: source
 url: https://notebooks.quantumstat.com/
 ---
 
-https://notebooks.quantumstat.com/
+[https://notebooks.quantumstat.com/](https://notebooks.quantumstat.com/)
 
-List a lot of NLP models
+一些NLP模型的收集，有Colab地址

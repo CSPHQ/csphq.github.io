@@ -6,4 +6,6 @@ categories: source
 url: https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md
 ---
 
-https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md
+[https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md](https://github.com/openvinotoolkit/open_model_zoo/blob/master/models/intel/index.md)
+
+OpenCV中开放的模型，一部分是Intel训练的，一部分是社区中提供的

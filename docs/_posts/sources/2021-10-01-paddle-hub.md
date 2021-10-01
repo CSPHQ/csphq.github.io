@@ -6,4 +6,6 @@ categories: source
 url: https://www.paddlepaddle.org.cn/hub
 ---
 
-https://www.paddlepaddle.org.cn/hub
+[https://www.paddlepaddle.org.cn/hub](https://www.paddlepaddle.org.cn/hub)
+
+百度的PaddlePaddle框架的一些模型下载
