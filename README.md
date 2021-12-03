@@ -1,6 +1,6 @@
 # CSP
 
-[Homepage](https://github.com/deepdialog/CSP)
+[Homepage](https://deepdialog.github.io/CSP/)
 
 Collect, Save, Produce
 
