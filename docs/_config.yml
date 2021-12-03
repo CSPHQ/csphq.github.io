@@ -22,10 +22,10 @@ title: CSP
 email: mail@qhduan.com
 description: >- # this means to ignore newlines until "baseurl:"
   人工智能工程
-baseurl: "/CSP" # the subpath of your site, e.g. /blog
-url: "http://deepdialog.github.io/CSP" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://csphq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  deepdialog
+github_username: qhduan
 permalink: /:categories/:title/
 
 include:
